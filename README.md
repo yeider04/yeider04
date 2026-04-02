@@ -9,7 +9,11 @@
 </p>
 
 <p>
-  Casi termino mi etapa en el SENA como tecnólogo, pero mi cabeza ya está 100% en el Backend. Me muevo principalmente con Node.js, construyendo arquitecturas limpias y lógica de servidor que no se rompa. No solo escribo código; busco la forma más eficiente de resolver problemas reales, desde sistemas de retail hasta plataformas interactivas.
+Backend Developer enfocado en el ecosistema Node.js. 
+Construyo APIs REST con arquitecturas limpias, autenticación 
+segura y buenas prácticas desde el primer commit. Actualmente 
+terminando mi formación como Tecnólogo en ADSO en el SENA 
+mientras profundizo en microservicios y arquitecturas distribuidas.
 </p>
 <br clear="right"/>
 
