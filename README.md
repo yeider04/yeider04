@@ -8,10 +8,9 @@
 </p>
 
 <p>
-Desarrollador de Software con bases sólidas en desarrollo backend.<br> 
-Enfocado en la creación de soluciones estructuradas,<br> 
-aplicación de buenas prácticas de programación<br> 
-y constante aprendizaje de nuevas tecnologías. <br>Tecnólogo en ADSO.
+Software Developer with a strong backend foundation.<br>
+Focused on building structured solutions,<br>
+applying best practices, and continuously learning new technologies.
 </p>
 <br clear="right"/>
 
